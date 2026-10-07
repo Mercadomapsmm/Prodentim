@@ -1,0 +1,6 @@
+{
+  "name": "ProDentim Official Interactive Portal",
+  "description": "Official interactive presentation, oral health microbiome quiz, ingredient breakdown, and secure ordering portal for ProDentim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
